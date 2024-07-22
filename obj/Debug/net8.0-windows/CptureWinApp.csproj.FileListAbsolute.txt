@@ -1,0 +1,126 @@
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\avcodec-57.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\avdevice-57.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\avfilter-6.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\avformat-57.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\avutil-55.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\postproc-54.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\swresample-2.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\swscale-4.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.exe
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll.config
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.deps.json
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.runtimeconfig.json
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.pdb
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.DirectShow.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.AssemblyReference.cache
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Form1.resources
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Properties.Resources.resources
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.GenerateResource.cache
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfoInputs.cache
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfo.cs
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWi.98B047CC.Up2Date
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\refint\CptureWinApp.dll
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.pdb
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.genruntimeconfig.cache
+C:\Users\Ari Cahya Saputra\Downloads\Compressed\CptureWinApp\obj\Debug\net8.0-windows\ref\CptureWinApp.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\avcodec-57.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\avdevice-57.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\avfilter-6.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\avformat-57.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\avutil-55.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\postproc-54.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\swresample-2.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\swscale-4.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.exe
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll.config
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.deps.json
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.runtimeconfig.json
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.pdb
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.DirectShow.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp1\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.AssemblyReference.cache
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Form1.resources
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Properties.Resources.resources
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.GenerateResource.cache
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfoInputs.cache
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfo.cs
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.CoreCompileInputs.cache
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWi.98B047CC.Up2Date
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.dll
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\refint\CptureWinApp.dll
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.pdb
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.genruntimeconfig.cache
+D:\CaptureApp1\CptureWinApp\obj\Debug\net8.0-windows\ref\CptureWinApp.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\avcodec-57.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\avdevice-57.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\avfilter-6.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\avformat-57.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\avutil-55.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\postproc-54.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\swresample-2.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\swscale-4.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.exe
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll.config
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.deps.json
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.runtimeconfig.json
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\CptureWinApp.pdb
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\Accord.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\Accord.Video.DirectShow.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp\CptureWinApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.AssemblyReference.cache
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Form1.resources
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.Properties.Resources.resources
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.GenerateResource.cache
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfoInputs.cache
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.AssemblyInfo.cs
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.csproj.CoreCompileInputs.cache
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWi.98B047CC.Up2Date
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.dll
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\refint\CptureWinApp.dll
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.pdb
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\CptureWinApp.genruntimeconfig.cache
+D:\CaptureApp\CptureWinApp\obj\Debug\net8.0-windows\ref\CptureWinApp.dll
